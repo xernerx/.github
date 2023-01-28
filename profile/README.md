@@ -2,6 +2,12 @@
 
 Xernerx is a simple but extensive structure for Discord bots using the Discord.js library.
 
+<a href="https://xernerx.github.io/xernerx/home.html">
+<button>
+Documentation
+</button>
+</a>
+
 ## Contents
 
 - [Framework](#framework)
